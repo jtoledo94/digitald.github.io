@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "upperT": "2 días / 1 noche",
+        "title": "Ramada By Wyndham",
+        "src": "https://www.coloniaexpress.com/uy/Paquetes/Detalle?nombre=Ramada_By_Wyndham&id=515",
+        "precioAntes": "UYU 9.884",
+        "precioDespues": "UYU 8.119",
+        "cantidadEstrella": 4,
+        "estrella": "fa-solid fa-star",
+        "mediaEstrella": "fa-regular fa-star-half-stroke",
+        "img": "../img/hoteles/ramada-W-2.jpg",
+        "listado": [
+            {
+                "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
+            },
+            {
+                "descripcion": "Habitación doble standard con desayuno"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "upperT": "2 días / 1 noche",
+        "title": "Hotel República",
+        "src": "https://www.coloniaexpress.com/uy/Paquetes/Detalle?nombre=Hotel_Rep%C3%BAblica&id=321",
+        "precioAntes": "UYU 9.570",
+        "precioDespues": "UYU 7.868",
+        "cantidadEstrella": 4,
+        "estrella": "fa-solid fa-star",
+        "mediaEstrella": "fa-regular fa-star-half-stroke",
+        "img": "../img/hoteles/Hotel-republica-2.jpg",
+        "listado": [
+            {
+                "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
+            },
+            {
+                "descripcion": "Habitación doble standard con desayuno"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "upperT": "2 días / 1 noche",
+        "title": "Believe Madero",
+        "src": "https://www.coloniaexpress.com/uy/Paquetes/Detalle?nombre=Believe_Madero&id=617",
+        "precioAntes": "UYU 8.377",
+        "precioDespues": "UYU 6.913",
+        "cantidadEstrella": 4,
+        "estrella": "fa-solid fa-star",
+        "mediaEstrella": "fa-regular fa-star-half-stroke",
+        "img": "../img/hoteles/Belive-madero-2.jpg",
+        "listado": [
+            {
+                "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
+            },
+            {
+                "descripcion": "Habitación doble standard sin desayuno"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "upperT": "2 días / 1 noche",
+        "title": "HR Luxor",
+        "src": "https://www.coloniaexpress.com/uy/Paquetes/Detalle?nombre=HR_Luxor&id=467",
+        "precioAntes": "UYU 9.131",
+        "precioDespues": "UYU 7.516",
+        "cantidadEstrella": 4,
+        "estrella": "fa-solid fa-star",
+        "mediaEstrella": "fa-regular fa-star-half-stroke",
+        "img": "../img/hoteles/hrluxorfinal.jpg",
+        "listado": [
+            {
+                "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
+            },
+            {
+                "descripcion": "Habitación doble classic con desayuno"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "upperT": "2 días / 1 noche",
+        "title": "Ker Recoleta",
+        "src": "https://www.coloniaexpress.com/uy/Paquetes/Detalle?nombre=Ker_Recoleta&id=71",
+        "precioAntes": "UYU 10.386",
+        "precioDespues": "UYU 8.520",
+        "cantidadEstrella": 4,
+        "estrella": "fa-solid fa-star",
+        "mediaEstrella": "fa-regular fa-star-half-stroke",
+        "img": "../img/hoteles/KER-Recoleta-2.jpg",
+        "listado": [
+            {
+                "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
+            },
+            {
+                "descripcion": "Habitación doble classic con desayuno"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "upperT": "2 días / 1 noche",
+        "title": "IBIS Congreso & GrayLine City Tour",
+        "src": "https://www.coloniaexpress.com/uy/Paquetes/Detalle?nombre=IBIS_Congreso&id=483",
+        "precioAntes": "UYU 12.889",
+        "precioDespues": "UYU 10.523",
+        "cantidadEstrella": 3,
+        "estrella": "fa-solid fa-star",
+        "mediaEstrella": "fa-regular fa-star-half-stroke",
+        "img": "../img/hoteles/IBIS-2.jpg",
+        "listado": [
+            {
+                "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
+            },
+            {
+                "descripcion": "Habitación doble standard con desayuno"
+            }
+        ]
+    }
+]
