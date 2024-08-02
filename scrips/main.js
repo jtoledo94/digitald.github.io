@@ -28,7 +28,7 @@ lista = [
         cantidadEstrella: 4,
         estrella: "fa-solid fa-star",
         mediaEstrella: "fa-regular fa-star-half-stroke",
-        img: "../img/hoteles/ramada-W-2.jpg",
+        img: "../img/hoteles/ramada.jpg",
         listado: [
             {
                 "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
@@ -48,7 +48,7 @@ lista = [
         cantidadEstrella: 4,
         estrella: "fa-solid fa-star",
         mediaEstrella: "fa-regular fa-star-half-stroke",
-        img: "../img/hoteles/Hotel-republica-2.jpg",
+        img: "../img/hoteles/republica.jpg",
         listado: [
             {
                 "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
@@ -68,7 +68,7 @@ lista = [
         cantidadEstrella: 4,
         estrella: "fa-solid fa-star",
         mediaEstrella: "fa-regular fa-star-half-stroke",
-        img: "../img/hoteles/Belive-madero-2.jpg",
+        img: "../img/hoteles/belive.jpg",
         listado: [
             {
                 "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
@@ -108,7 +108,7 @@ lista = [
         cantidadEstrella: 4,
         estrella: "fa-solid fa-star",
         mediaEstrella: "fa-regular fa-star-half-stroke",
-        img: "../img/hoteles/KER-Recoleta-2.jpg",
+        img: "../img/hoteles/ker.jpg",
         listado: [
             {
                 "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
@@ -128,7 +128,7 @@ lista = [
         cantidadEstrella: 3,
         estrella: "fa-solid fa-star",
         mediaEstrella: "fa-regular fa-star-half-stroke",
-        img: "../img/hoteles/IBIS-2.jpg",
+        img: "../img/hoteles/ibis.jpg",
         listado: [
             {
                 "descripcion": "Pasajes ida y vuelta + bus desde Montevideo"
